@@ -1,0 +1,12 @@
+.estiloEncabezado {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.fondo {
+    background-color: rgb(43, 189, 226);
+}
+
+body{
+    background-color: black;
+} 
